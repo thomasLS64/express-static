@@ -1,0 +1,26 @@
+{
+  "name": "express-static",
+  "version": "1.0.0",
+  "description": "Webserver to serve static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "trololo"
+  },
+  "keywords": [
+    "webserver",
+    "server",
+    "express",
+    "js",
+    "static",
+    "file"
+  ],
+  "author": "Thomas Le Sciellour <thomas.lesciellour@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
